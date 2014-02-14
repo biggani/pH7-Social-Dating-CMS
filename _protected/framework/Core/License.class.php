@@ -244,10 +244,10 @@ final class License
     }
 
     /**
-     * Get informations on the software license.
+     * Get information on the software license.
      *
      * @access private
-     * @return mixed (array | boolean) Returns license informations in an array or FALSE if an error occurred.
+     * @return mixed (array | boolean) Returns license information in an array or FALSE if an error occurred.
      */
     private function _getLicInfo()
     {

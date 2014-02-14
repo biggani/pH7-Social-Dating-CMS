@@ -238,7 +238,7 @@
           </ul>
         </li>
 
-        <li><a href="{{ $design->url(PH7_ADMIN_MOD,'info','index') }}" title="{lang 'Informations'}">{lang 'Info'}</a>
+        <li><a href="{{ $design->url(PH7_ADMIN_MOD,'info','index') }}" title="{lang 'Information'}">{lang 'Info'}</a>
           <ul>
             <li><a href="{{ $design->url(PH7_ADMIN_MOD,'main','stat') }}" title="{lang 'Site Statistics'}">{lang 'Site Stats'}</a></li>
             <li><a href="{{ $design->url(PH7_ADMIN_MOD,'info','software') }}" title="{lang 'Software'}">{lang 'Software'}</a></li>
